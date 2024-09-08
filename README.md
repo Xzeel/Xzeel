@@ -11,7 +11,7 @@
 
 <h2 style="font-weight: bold;">Discord Server</h2>
 <div>
-  <a href="https://dc.gg/xzeelketche's-realm" target="_blank">
+  <a href="https://discord.com/invite/SnnbztmqyR" target="_blank">
   <img src="https://discord.com/api/guilds/1229380865167986718/widget.png?style=banner4">
   </a>
 </div>
