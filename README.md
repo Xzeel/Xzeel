@@ -1,6 +1,6 @@
 ## Hi there, I'm XzeelKetche 👋
 
-- 🖥️ I'm making discord.js Bot, Minecraft server, and more.
+- 🖥️ I'm making [discord.js](https://discord.js.org) Bot, Minecraft server, and more.
 - I'm from Indonesia.
 
 ## Social Media
