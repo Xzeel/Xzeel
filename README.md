@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm XzeelKetche A.K.A AbsoluteNetwork</h1>
 <h3 align="center">Just 14 Y.O programmer & loves creating web and Minecraft servers development</h3>
 <hr>
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzeel&theme=dracula&layout=compact&langs_count=10" alt="xzeel" /></p>
 - 🖥️ I'm making [discord.js](https://discord.js.org) Bot, Website, Minecraft server, and more.
 - I'm from Indonesia.
 
