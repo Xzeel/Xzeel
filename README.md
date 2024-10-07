@@ -41,6 +41,18 @@
   <a href="https://www.figma.com/" target="_blank">
   <img src=https://img.shields.io/badge/Figma-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=figma&logoColor=000000&labelColor=31a9fc alt=figma style="margin-bottom: 5px;" />
   </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+  <img src=https://img.shields.io/badge/Bootstrap-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=bootstrap&logoColor=000000&labelColor=31a9fc alt=bootstrap style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.canva.com/" target="_blank">
+  <img src=https://img.shields.io/badge/Canva-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=canva&logoColor=000000&labelColor=31a9fc alt=canva style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+  <img src=https://img.shields.io/badge/Tailwindcss-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=tailwindcss&logoColor=000000&labelColor=31a9fc alt=tailwindcss style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank">
+  <img src=https://img.shields.io/badge/NPM-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=npm&logoColor=000000&labelColor=31a9fc alt=npm style="margin-bottom: 5px;" />
+  </a>
 </p>
 
 <h2 style="font-weight: bold;" align="center">Social Media</h2>
