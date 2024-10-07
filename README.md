@@ -17,8 +17,8 @@
 
 <h3 align="center">Social Media</h3>
 <p align="center">
-  <a href="https://instagram.com/xzeelketche.id" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instagram" width="40" height="40" /> </a>
-  <a href="https://tiktok.com/@me.raihanz" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="tiktok" width="40" height="40" /> </a>
+  <a href="https://instagram.com/xzeelketche.id" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instagram"/> </a>
+  <a href="https://tiktok.com/@me.raihanz" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="tiktok"/> </a>
 </p>
 
 <h3 align="center">Tech Stack</h3>
