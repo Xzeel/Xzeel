@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [absolutenetwork.xyz](https://absolutenetwork.xyz)
 
-- I’m from Indonesia.
+- 🌟 I’m from Indonesia.
 
 - ⚡ Fun fact **i don't think i have fun fact**
 
