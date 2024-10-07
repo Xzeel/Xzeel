@@ -5,8 +5,11 @@
 <hr>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzeel&theme=dracula&layout=compact&langs_count=10" alt="xzeel" /></p>
 
-- 🖥️ I'm making [discord.js](https://discord.js.org) Bot, Website, Minecraft server, and more.
-- I'm from Indonesia.
+- 🌱 I’m currently learning **Back End & Minecraft servers Development**
+
+- 👨‍💻 All of my projects are available at [absolutenetwork.xyz](https://absolutenetwork.xyz)
+
+- I’m from Indonesia.
 
 <hr>
 
