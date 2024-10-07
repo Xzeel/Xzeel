@@ -17,8 +17,12 @@
 
 <h2 style="font-weight: bold;" align="center">Social Media</h2>
 <p align="center">
-  <a href="https://instagram.com/xzeelketche.id" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instagram"/> </a>
-  <a href="https://tiktok.com/@me.raihanz" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="tiktok"/> </a>
+  <a href="https://instagram.com/xzeelketche.id" target="_blank">
+  <img src=https://img.shields.io/badge/Instagram-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=instagram&logoColor=000000&labelColor=31a9fc alt=instagram style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://tiktok.com/@me.raihanz" target="_blank">
+  <img src=https://img.shields.io/badge/TikTok-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=tiktok&logoColor=000000&labelColor=31a9fc alt=whatsapp style="margin-bottom: 5px;" />
+  </a>
 </p>
 
 <h2 style="font-weight: bold;" align="center">Tech Stack</h2>
@@ -39,13 +43,13 @@
   <img src=https://img.shields.io/badge/Mysql-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=mysql&logoColor=000000&labelColor=31a9fc alt=mysql style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.w3.org/html/" target="_blank">
-  <img src=https://img.shields.io/badge/HTML-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=html5&logoColor=000000&labelColor=31a9fc alt=javascript style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/HTML-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=html5&logoColor=000000&labelColor=31a9fc alt=html style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-  <img src=https://img.shields.io/badge/CSS-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=css3&logoColor=000000&labelColor=31a9fc alt=javascript style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/CSS-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=css3&logoColor=000000&labelColor=31a9fc alt=css style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.java.com" target="_blank">
-  <img src=https://img.shields.io/badge/Java-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=java-original&logoColor=000000&labelColor=31a9fc alt=javascript style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/Java-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=java-original&logoColor=000000&labelColor=31a9fc alt=java style="margin-bottom: 5px;" />
   </a>
 </p>
 
