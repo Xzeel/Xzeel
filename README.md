@@ -49,7 +49,7 @@
   <img src=https://img.shields.io/badge/CSS-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=css3&logoColor=000000&labelColor=31a9fc alt=css style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.java.com" target="_blank">
-  <img src=https://img.shields.io/badge/Java-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=java&logoColor=000000&labelColor=31a9fc alt=java style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/java-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=java&logoColor=000000&labelColor=31a9fc alt=java style="margin-bottom: 5px;" />
   </a>
 </p>
 
