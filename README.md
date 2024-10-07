@@ -38,6 +38,15 @@
   <a href="https://www.mysql.com/" target="_blank">
   <img src=https://img.shields.io/badge/Mysql-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=mysql&logoColor=000000&labelColor=31a9fc alt=mysql style="margin-bottom: 5px;" />
   </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+  <img src=https://img.shields.io/badge/HTML-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=html&logoColor=000000&labelColor=31a9fc alt=javascript style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+  <img src=https://img.shields.io/badge/CSS-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=css&logoColor=000000&labelColor=31a9fc alt=javascript style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.java.com" target="_blank">
+  <img src=https://img.shields.io/badge/Java-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=java&logoColor=000000&labelColor=31a9fc alt=javascript style="margin-bottom: 5px;" />
+  </a>
 </p>
 
 <hr>
