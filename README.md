@@ -49,7 +49,10 @@
   <img src=https://img.shields.io/badge/Instagram-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=instagram&logoColor=000000&labelColor=31a9fc alt=instagram style="margin-bottom: 5px;" />
   </a>
   <a href="https://tiktok.com/@me.raihanz" target="_blank">
-  <img src=https://img.shields.io/badge/TikTok-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=tiktok&logoColor=000000&labelColor=31a9fc alt=whatsapp style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/TikTok-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=tiktok&logoColor=000000&labelColor=31a9fc alt=tiktok style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.youtube.com/@XzeelKetche" target="_blank">
+  <img src=https://img.shields.io/badge/YouTube-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=youtube&logoColor=000000&labelColor=31a9fc alt=youtube style="margin-bottom: 5px;" />
   </a>
 </p>
 
