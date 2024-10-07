@@ -53,11 +53,9 @@
   </a>
 </p>
 
-<hr>
-
 <h2 style="font-weight: bold;" align="center">Discord Server</h2>
-<div>
+<p align="center">
   <a href="https://discord.com/invite/SnnbztmqyR" target="_blank">
   <img src="https://discord.com/api/guilds/1229380865167986718/widget.png?style=banner4">
   </a>
-</div>
+</p>
