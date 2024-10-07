@@ -15,16 +15,6 @@
 
 <hr>
 
-<h2 style="font-weight: bold;" align="center">Social Media</h2>
-<p align="center">
-  <a href="https://instagram.com/xzeelketche.id" target="_blank">
-  <img src=https://img.shields.io/badge/Instagram-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=instagram&logoColor=000000&labelColor=31a9fc alt=instagram style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://tiktok.com/@me.raihanz" target="_blank">
-  <img src=https://img.shields.io/badge/TikTok-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=tiktok&logoColor=000000&labelColor=31a9fc alt=whatsapp style="margin-bottom: 5px;" />
-  </a>
-</p>
-
 <h2 style="font-weight: bold;" align="center">Tech Stack</h2>
 <p align="center">
   <a href="https://nodejs.org/" target="_blank">
@@ -50,6 +40,16 @@
   </a>
   <a href="https://www.figma.com/" target="_blank">
   <img src=https://img.shields.io/badge/Figma-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=figma&logoColor=000000&labelColor=31a9fc alt=figma style="margin-bottom: 5px;" />
+  </a>
+</p>
+
+<h2 style="font-weight: bold;" align="center">Social Media</h2>
+<p align="center">
+  <a href="https://instagram.com/xzeelketche.id" target="_blank">
+  <img src=https://img.shields.io/badge/Instagram-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=instagram&logoColor=000000&labelColor=31a9fc alt=instagram style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://tiktok.com/@me.raihanz" target="_blank">
+  <img src=https://img.shields.io/badge/TikTok-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=tiktok&logoColor=000000&labelColor=31a9fc alt=whatsapp style="margin-bottom: 5px;" />
   </a>
 </p>
 
