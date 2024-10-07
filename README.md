@@ -15,13 +15,13 @@
 
 <hr>
 
-<h3 style="font-weight: bold;" align="center">Social Media</h3>
+<h2 style="font-weight: bold;" align="center">Social Media</h2>
 <p align="center">
   <a href="https://instagram.com/xzeelketche.id" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instagram"/> </a>
   <a href="https://tiktok.com/@me.raihanz" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="tiktok"/> </a>
 </p>
 
-<h3 style="font-weight: bold;" align="center">Tech Stack</h3>
+<h2 style="font-weight: bold;" align="center">Tech Stack</h2>
 <p align="center">
   <a href="https://nodejs.org/" target="_blank">
   <img src=https://img.shields.io/badge/Node.Js-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=node.js&logoColor=000000&labelColor=31a9fc alt=javascript style="margin-bottom: 5px;" />
