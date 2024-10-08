@@ -71,9 +71,9 @@
   </a>
 </p>
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=Xzeel&show_icons=true&theme=algolia)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xzeel&show_icons=true&theme=algolia&custom_title=Xzeel's GitHub Stats" alt="xzeel" /> <br> </p>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Xzeel&theme=algolia)
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Xzeel&theme=algolia" /> <br> </p>
 
 <h2 style="font-weight: bold;" align="center">Discord Server</h2>
 <p align="center">
