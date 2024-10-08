@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Raihan A.K.A XzeelKetche</h1>
 <h3 align="center">Just 14 Y.O programmer & loves creating web and Minecraft servers development</h3>
 <hr>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzeel&theme=dracula&layout=compact&langs_count=10" alt="xzeel" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzeel&theme=algolia&layout=compact&langs_count=10" alt="xzeel" /></p>
 
 - 🌱 I’m currently learning **Back End & Minecraft servers Development**
 
@@ -70,6 +70,10 @@
   <img src=https://img.shields.io/badge/YouTube-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=youtube&logoColor=000000&labelColor=31a9fc alt=youtube style="margin-bottom: 5px;" />
   </a>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xzeel&show_icons=true&theme=algolia /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Xzeel&theme=algolia /></p>
 
 <h2 style="font-weight: bold;" align="center">Discord Server</h2>
 <p align="center">
