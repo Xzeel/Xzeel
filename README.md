@@ -71,7 +71,7 @@
   </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xzeel&show_icons=true&theme=algolia&custom_title=Xzeel's GitHub Stats" alt="xzeel" /> <br> </p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xzeel&show_icons=true&theme=algolia" alt="xzeel" /> <br> </p>
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Xzeel&theme=algolia" /> <br> </p>
 
