@@ -18,7 +18,10 @@
 <h2 style="font-weight: bold;" align="center">Tech Stack</h2>
 <p align="center">
   <a href="https://nodejs.org/" target="_blank">
-  <img src=https://img.shields.io/badge/Node.Js-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=node.js&logoColor=000000&labelColor=31a9fc alt=javascript style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/Node.Js-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=node.js&logoColor=000000&labelColor=31a9fc alt=nodejs style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.w3schools.com/js/" target="_blank">
+  <img src=https://img.shields.io/badge/Javascript-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=javascript&logoColor=000000&labelColor=31a9fc alt=javascript style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.python.org/" target="_blank">
   <img src=https://img.shields.io/badge/Python-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=python&logoColor=000000&labelColor=31a9fc alt=python style="margin-bottom: 5px;" />
