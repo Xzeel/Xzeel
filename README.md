@@ -59,10 +59,10 @@
   <a href="https://www.npmjs.com/" target="_blank">
   <img src=https://img.shields.io/badge/NPM-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=npm&logoColor=000000&labelColor=31a9fc alt=npm style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.npmjs.com/" target="_blank">
+  <a href="https://www.cloudflare.com/" target="_blank">
   <img src=https://img.shields.io/badge/Cloudflare-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=cloudflare&logoColor=000000&labelColor=31a9fc alt=cloudflare style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.npmjs.com/" target="_blank">
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank">
   <img src=https://img.shields.io/badge/DaVinciResolve-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=davinciresolve&logoColor=000000&labelColor=31a9fc alt=davinciresolve style="margin-bottom: 5px;" />
   </a>
 </p>
