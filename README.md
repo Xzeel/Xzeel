@@ -35,6 +35,9 @@
   <a href="https://www.php.net/" target="_blank">
   <img src=https://img.shields.io/badge/Php-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=php&logoColor=000000&labelColor=31a9fc alt=php style="margin-bottom: 5px;" />
   </a>
+  <a href="https://www.java.com/" target="_blank">
+  <img src=https://img.shields.io/badge/JDK-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=jdk&logoColor=000000&labelColor=31a9fc alt=jdk style="margin-bottom: 5px;" />
+  </a>
   <a href="https://www.mongodb.com/" target="_blank">
   <img src=https://img.shields.io/badge/MongoDB-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=mongodb&logoColor=000000&labelColor=31a9fc alt=mongodb style="margin-bottom: 5px;" />
   </a>
