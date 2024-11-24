@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Raihan A.K.A XzeelKetche</h1>
 <h3 align="center">Just 14 Y.O programmer & loves creating web and Minecraft servers development</h3>
 <hr>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzeel&theme=algolia&layout=compact&langs_count=10" alt="xzeel" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzeel&theme=react&layout=compact&langs_count=10" alt="xzeel" /></p>
 
 - 🌱 I’m currently learning **Front End & Minecraft servers Development**
 
