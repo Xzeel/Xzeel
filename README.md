@@ -9,7 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [absolutenet.xyz](https://absolutenet.xyz)
 
+- 📝 I regularly write articles on [blog.absolutenet.xyz](https://blog.absolutenet.xyz)
+
 - 🌟 I’m from Indonesia.
+
+- 📄 Know about my experiences [absolutenet.xyz](https://absolutenet.xyz)
 
 - ⚡ Fun fact **i don't think i have fun fact**
 
@@ -86,9 +90,9 @@
   </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xzeel&show_icons=true&theme=algolia" alt="xzeel" /> <br> </p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xzeel&show_icons=true&theme=react" alt="xzeel" /> <br> </p>
 
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Xzeel&theme=algolia" /> <br> </p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Xzeel&theme=react" /> <br> </p>
 
 <h2 style="font-weight: bold;" align="center">Discord Server</h2>
 <p align="center">
