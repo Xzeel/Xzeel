@@ -5,7 +5,7 @@
 <hr>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzeel&theme=algolia&layout=compact&langs_count=10" alt="xzeel" /></p>
 
-- 🌱 I’m currently learning **Back End & Minecraft servers Development**
+- 🌱 I’m currently learning **Front End & Minecraft servers Development**
 
 - 👨‍💻 All of my projects are available at [absolutenetwork.xyz](https://absolutenetwork.xyz)
 
