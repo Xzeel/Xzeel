@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Front End & Minecraft servers Development**
 
-- 👨‍💻 All of my projects are available at [absolutenetwork.xyz](https://absolutenetwork.xyz)
+- 👨‍💻 All of my projects are available at [absolutenet.xyz](https://absolutenet.xyz)
 
 - 🌟 I’m from Indonesia.
 
