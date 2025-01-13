@@ -1,4 +1,4 @@
-[![header](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)](https://absolutenet.xyz)
+[![header](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)](https://envystudio.my.id)
 
 <h1 align="center">Hi 👋, I'm Raihan A.K.A XzeelKetche</h1>
 <h3 align="center">Just 15 Y.O programmer & likes creating web and Minecraft servers development</h3>
@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Front End & Minecraft servers Development**
 
-- 👨‍💻 All of my projects are available at [absolutenet.xyz](https://absolutenet.xyz)
+- 👨‍💻 All of my projects are available at [envystudio.my.id](https://envystudio.my.id)
 
-- 📝 I regularly write articles on [blog.absolutenet.xyz](https://blog.absolutenet.xyz)
+- 📝 I regularly write articles on [blog.envystudio.my.id](https://blog.envystudio.my.id)
 
 - 🌟 I’m from Indonesia.
 
-- 📄 Know about my experiences [absolutenet.xyz](https://absolutenet.xyz)
+- 📄 Know about my experiences [envystudio.my.id](https://envystudio.my.id)
 
 - ⚡ Fun fact **i don't think i have fun fact**
 
