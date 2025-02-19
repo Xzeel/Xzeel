@@ -102,4 +102,7 @@
   <a href="https://discord.com/invite/SnnbztmqyR" target="_blank">
   <img src="https://discord.com/api/guilds/1229380865167986718/widget.png?style=banner4">
   </a>
+  <a href="https://discord.com/invite/UF8dSpCkFa" target="_blank">
+  <img src="https://discord.com/api/guilds/1165612809258807316/widget.png?style=banner4">
+  </a>
 </p>
