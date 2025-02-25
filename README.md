@@ -1,4 +1,4 @@
-[![header](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)](https://envystudio.my.id)
+[![header](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)](https://envystudio.carrd.co/)
 
 <h1 align="center">Hi 👋, I'm Raihan A.K.A XzeelKetche</h1>
 <h3 align="center">Just 15 Y.O programmer & likes creating web and Minecraft servers development</h3>
@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Front End & Minecraft servers Development**
 
-- 👨‍💻 All of my projects are available at [envystudio.my.id](https://envystudio.my.id)
+- 👨‍💻 All of my projects are available at [envystudio.xyz](https://envystudio.carrd.co/)
 
-- 📝 I regularly write articles on [blog.envystudio.my.id](https://blog.envystudio.my.id)
+- 📝 I regularly write articles on [blog.envystudio.xyz](https://envystudio.carrd.co/)
 
 - 🌟 I’m from Indonesia.
 
-- 📄 Know about my experiences [envystudio.my.id](https://envystudio.my.id)
+- 📄 Know about my experiences [envystudio.xyz](https://envystudio.carrd.co/)
 
 - ⚡ Fun fact **i don't think i have fun fact**
 
