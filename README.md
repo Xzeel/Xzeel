@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Front End & Minecraft servers Development**
 
-- 👨‍💻 All of my projects are available at [envystudio.xyz](https://envystudio.carrd.co/)
+- 👨‍💻 All of my projects are available at [astranous.studio](https://envystudio.carrd.co/)
 
-- 📝 I regularly write articles on [blog.envystudio.xyz](https://envystudio.carrd.co/)
+- 📝 I regularly write articles on [blog.astranous.studio](https://envystudio.carrd.co/)
 
 - 🌟 I’m from Indonesia.
 
-- 📄 Know about my experiences [envystudio.xyz](https://envystudio.carrd.co/)
+- 📄 Know about my experiences [astranous.studio](https://envystudio.carrd.co/)
 
 - ⚡ Fun fact **i don't think i have fun fact**
 
