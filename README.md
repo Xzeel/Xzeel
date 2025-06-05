@@ -1,4 +1,4 @@
-[![header](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)](https://astranousstudio.carrd.co/)
+[![header](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)](https://astranous.carrd.co/)
 
 <h1 align="center">Hi 👋, I'm Raihan A.K.A XzeelKetche</h1>
 <h3 align="center">Just 15 Y.O programmer & likes creating web and Minecraft servers development</h3>
@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Front End & Minecraft servers Development**
 
-- 👨‍💻 All of my projects are available at [astranous.studio](https://astranousstudio.carrd.co/)
+- 👨‍💻 All of my projects are available at [astranous.studio](https://astranous.carrd.co/)
 
-- 📝 I regularly write articles on [blog.astranous.studio](https://astranousstudio.carrd.co/)
+- 📝 I regularly write articles on [blog.astranous.studio](https://astranous.carrd.co/)
 
 - 🌟 I’m from Indonesia.
 
-- 📄 Know about my experiences [astranous.studio](https://astranousstudio.carrd.co/)
+- 📄 Know about my experiences [astranous.studio](https://astranous.carrd.co/)
 
 - ⚡ Fun fact **i don't think i have fun fact**
 
