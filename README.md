@@ -110,7 +110,10 @@
 
 <h2 style="font-weight: bold;" align="center">Support Me</h2>
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank">
+  <a href="https://saweria.co/XzeelKetche" target="_blank">
   <img src=https://img.shields.io/badge/Saweria-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=saweria&logoColor=000000&labelColor=31a9fc alt=saweria style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://trakteer.id/xzeelketche" target="_blank">
+  <img src=https://img.shields.io/badge/Trakteer-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=trakteer&logoColor=000000&labelColor=31a9fc alt=trakteer style="margin-bottom: 5px;" />
   </a>
 </p>
