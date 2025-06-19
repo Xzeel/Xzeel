@@ -107,3 +107,10 @@
   <img src="https://discord.com/api/guilds/1165612809258807316/widget.png?style=banner4">
   </a>
 </p>
+
+<h2 style="font-weight: bold;" align="center">Support Me</h2>
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank">
+  <img src=https://img.shields.io/badge/Saweria-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=saweria&logoColor=000000&labelColor=31a9fc alt=saweria style="margin-bottom: 5px;" />
+  </a>
+</p>
