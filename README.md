@@ -49,9 +49,6 @@
   <a href="https://www.mysql.com/" target="_blank">
   <img src=https://img.shields.io/badge/Mysql-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=mysql&logoColor=000000&labelColor=31a9fc alt=mysql style="margin-bottom: 5px;" />
   </a>
-  <a href="https://mariadb.org/" target="_blank">
-  <img src=https://img.shields.io/badge/MariaDB-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=mariadb&logoColor=000000&labelColor=31a9fc alt=mariadb style="margin-bottom: 5px;" />
-  </a>
   <a href="https://www.figma.com/" target="_blank">
   <img src=https://img.shields.io/badge/Figma-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=figma&logoColor=000000&labelColor=31a9fc alt=figma style="margin-bottom: 5px;" />
   </a>
