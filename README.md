@@ -37,17 +37,8 @@
   <a href="https://www.python.org/" target="_blank">
   <img src=https://img.shields.io/badge/Python-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=python&logoColor=000000&labelColor=31a9fc alt=Python style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.php.net/" target="_blank">
-  <img src=https://img.shields.io/badge/Php-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=php&logoColor=000000&labelColor=31a9fc alt=PHP style="margin-bottom: 5px;" />
-  </a>
   <a href="https://www.java.com/" target="_blank">
   <img src=https://img.shields.io/badge/Java-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=openjdk&logoColor=000000&labelColor=31a9fc alt=OpenJDK style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-  <img src=https://img.shields.io/badge/MongoDB-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=mongodb&logoColor=000000&labelColor=31a9fc alt=MongoDB style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-  <img src=https://img.shields.io/badge/Mysql-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=mysql&logoColor=000000&labelColor=31a9fc alt=MySQL style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.figma.com/" target="_blank">
   <img src=https://img.shields.io/badge/Figma-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=figma&logoColor=000000&labelColor=31a9fc alt=Figma style="margin-bottom: 5px;" />
@@ -60,9 +51,6 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
   <img src=https://img.shields.io/badge/Tailwindcss-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=tailwindcss&logoColor=000000&labelColor=31a9fc alt=TailwindCSS style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank">
-  <img src=https://img.shields.io/badge/NPM-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=npm&logoColor=000000&labelColor=31a9fc alt=NPM style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.cloudflare.com/" target="_blank">
   <img src=https://img.shields.io/badge/Cloudflare-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=cloudflare&logoColor=000000&labelColor=31a9fc alt=Cloudflare style="margin-bottom: 5px;" />
@@ -114,3 +102,4 @@
   <img src=https://img.shields.io/badge/Trakteer-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=trakteer&logoColor=000000&labelColor=31a9fc alt=Trakteer style="margin-bottom: 5px;" />
   </a>
 </p>
+<hr>
