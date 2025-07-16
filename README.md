@@ -6,7 +6,7 @@
 <hr>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzeel&theme=react&layout=compact&langs_count=10" alt="xzeel" /></p>
 
-- 🌱 I’m currently learning **Front-End, Discord Bot & Minecraft Servers Development**
+- 🌱 I’m currently learning **Front-End, Discord Bot & Minecraft Servers**
 
 - 👨‍💻 All of my projects are available at [astranous.studio](https://astranous.carrd.co/)
 
