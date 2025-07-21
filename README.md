@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I’m Raihan A.K.A XzeelArcadia</h1>
 
-[![header](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)](https://astranous.carrd.co/)
+[![header](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)](https://xzeelarcadia.carrd.co/)
 
 <h3 align="center">Just 15 Y.O Programmer, likes creating Website & Minecraft Servers Development</h3>
 <hr>
@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Front-End, Discord Bot & Minecraft Servers**
 
-- 👨‍💻 All of my projects are available at [astranous.studio](https://astranous.carrd.co/)
+- 👨‍💻 All of my projects are available at [xzeelarcadia.carrd.co](https://xzeelarcadia.carrd.co/)
 
-- 📝 I regularly write articles on [blog.astranous.studio](https://astranous.carrd.co/)
+- 📝 I regularly write articles on [xzeelarcadia.carrd.co](https://xzeelarcadia.carrd.co/)
 
 - 🌟 I’m from Indonesia.
 
-- 📄 Know about my experiences [astranous.studio](https://astranous.carrd.co/)
+- 📄 Know about my experiences [xzeelarcadia.carrd.co](https://xzeelarcadia.carrd.co/)
 
 - ⚡ Fun fact **i don't think i have fun fact**
 
@@ -34,15 +34,6 @@
   <a href="https://www.w3schools.com/js/" target="_blank">
   <img src=https://img.shields.io/badge/Javascript-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=javascript&logoColor=000000&labelColor=31a9fc alt=JavaScript style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.python.org/" target="_blank">
-  <img src=https://img.shields.io/badge/Python-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=python&logoColor=000000&labelColor=31a9fc alt=Python style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-  <img src=https://img.shields.io/badge/Java-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=openjdk&logoColor=000000&labelColor=31a9fc alt=OpenJDK style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-  <img src=https://img.shields.io/badge/Figma-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=figma&logoColor=000000&labelColor=31a9fc alt=Figma style="margin-bottom: 5px;" />
-  </a>
   <a href="https://getbootstrap.com/" target="_blank">
   <img src=https://img.shields.io/badge/Bootstrap-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=bootstrap&logoColor=000000&labelColor=31a9fc alt=Bootstrap style="margin-bottom: 5px;" />
   </a>
@@ -54,9 +45,6 @@
   </a>
   <a href="https://www.cloudflare.com/" target="_blank">
   <img src=https://img.shields.io/badge/Cloudflare-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=cloudflare&logoColor=000000&labelColor=31a9fc alt=Cloudflare style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank">
-  <img src=https://img.shields.io/badge/DaVinciResolve-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=davinciresolve&logoColor=000000&labelColor=31a9fc alt=DavinciResolve style="margin-bottom: 5px;" />
   </a>
   <a href="https://web.blockbench.net/" target="_blank">
   <img src=https://img.shields.io/badge/Blockbench-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=blockbench&logoColor=000000&labelColor=31a9fc alt=Blockbench style="margin-bottom: 5px;" />
