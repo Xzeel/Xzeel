@@ -4,7 +4,7 @@
 
 <h3 align="center">Just 15 Y.O Programmer, likes creating Website & Minecraft Servers Development</h3>
 <hr>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzeel&theme=react&layout=compact&langs_count=10" alt="xzeel" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzeel&theme=nord&layout=compact&langs_count=10" alt="xzeel" /></p>
 
 - 🌱 I’m currently learning **Front-End, Discord Bot & Minecraft Servers**
 
@@ -67,9 +67,9 @@
   </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xzeel&show_icons=true&theme=react" alt="xzeel" /> <br> </p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xzeel&show_icons=true&theme=nord" alt="xzeel" /> <br> </p>
 
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Xzeel&theme=react" /> <br> </p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Xzeel&theme=nord" /> <br> </p>
 
 <h2 style="font-weight: bold;" align="center">Discord Server</h2>
 <p align="center">
