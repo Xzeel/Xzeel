@@ -26,7 +26,7 @@
   <img src=https://img.shields.io/badge/HTML-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=html5&logoColor=000000&labelColor=7c9dc4 alt=HTML style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-  <img src=https://img.shields.io/badge/CSS-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=css3&logoColor=000000&labelColor=7c9dc4 alt=CSS style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/CSS-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=css&logoColor=000000&labelColor=7c9dc4 alt=CSS style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.w3schools.com/js/" target="_blank">
   <img src=https://img.shields.io/badge/Javascript-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=javascript&logoColor=000000&labelColor=7c9dc4 alt=JavaScript style="margin-bottom: 5px;" />
