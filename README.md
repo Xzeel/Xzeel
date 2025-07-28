@@ -28,11 +28,17 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
   <img src=https://img.shields.io/badge/CSS-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=css3&logoColor=000000&labelColor=7c9dc4 alt=CSS style="margin-bottom: 5px;" />
   </a>
+  <a href="https://www.w3schools.com/js/" target="_blank">
+  <img src=https://img.shields.io/badge/Javascript-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=javascript&logoColor=000000&labelColor=7c9dc4 alt=JavaScript style="margin-bottom: 5px;" />
+  </a>
   <a href="https://nodejs.org/" target="_blank">
   <img src=https://img.shields.io/badge/Node.Js-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=node.js&logoColor=000000&labelColor=7c9dc4 alt=NodeJS style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.w3schools.com/js/" target="_blank">
-  <img src=https://img.shields.io/badge/Javascript-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=javascript&logoColor=000000&labelColor=7c9dc4 alt=JavaScript style="margin-bottom: 5px;" />
+  <a href="https://react.dev/" target="_blank">
+  <img src=https://img.shields.io/badge/React-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=react&logoColor=000000&labelColor=7c9dc4 alt=React style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://discord.js.org/" target="_blank">
+  <img src=https://img.shields.io/badge/Discord.js-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=discord.js&logoColor=000000&labelColor=7c9dc4 alt=Discord.js style="margin-bottom: 5px;" />
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
   <img src=https://img.shields.io/badge/Bootstrap-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=bootstrap&logoColor=000000&labelColor=7c9dc4 alt=Bootstrap style="margin-bottom: 5px;" />
