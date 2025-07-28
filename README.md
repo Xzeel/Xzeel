@@ -37,6 +37,9 @@
   <a href="https://react.dev/" target="_blank">
   <img src=https://img.shields.io/badge/React-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=react&logoColor=000000&labelColor=7c9dc4 alt=React style="margin-bottom: 5px;" />
   </a>
+    <a href="https://tailwindcss.com/" target="_blank">
+  <img src=https://img.shields.io/badge/Tailwindcss-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=tailwindcss&logoColor=000000&labelColor=7c9dc4 alt=TailwindCSS style="margin-bottom: 5px;" />
+  </a>
   <a href="https://discord.js.org/" target="_blank">
   <img src=https://img.shields.io/badge/Discord.js-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=discord.js&logoColor=000000&labelColor=7c9dc4 alt=Discord.js style="margin-bottom: 5px;" />
   </a>
@@ -45,9 +48,6 @@
   </a>
   <a href="https://www.canva.com/" target="_blank">
   <img src=https://img.shields.io/badge/Canva-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=canva&logoColor=000000&labelColor=7c9dc4 alt=Canva style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-  <img src=https://img.shields.io/badge/Tailwindcss-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=tailwindcss&logoColor=000000&labelColor=7c9dc4 alt=TailwindCSS style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.cloudflare.com/" target="_blank">
   <img src=https://img.shields.io/badge/Cloudflare-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=cloudflare&logoColor=000000&labelColor=7c9dc4 alt=Cloudflare style="margin-bottom: 5px;" />
