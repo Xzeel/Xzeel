@@ -43,9 +43,6 @@
   <a href="https://discord.js.org/" target="_blank">
   <img src=https://img.shields.io/badge/Discord.js-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=discord.js&logoColor=000000&labelColor=7c9dc4 alt=Discord.js style="margin-bottom: 5px;" />
   </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-  <img src=https://img.shields.io/badge/Bootstrap-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=bootstrap&logoColor=000000&labelColor=7c9dc4 alt=Bootstrap style="margin-bottom: 5px;" />
-  </a>
   <a href="https://www.canva.com/" target="_blank">
   <img src=https://img.shields.io/badge/Canva-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=canva&logoColor=000000&labelColor=7c9dc4 alt=Canva style="margin-bottom: 5px;" />
   </a>
@@ -54,6 +51,9 @@
   </a>
   <a href="https://web.blockbench.net/" target="_blank">
   <img src=https://img.shields.io/badge/Blockbench-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=blockbench&logoColor=000000&labelColor=7c9dc4 alt=Blockbench style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.figma.com/resource-library/difference-between-ui-and-ux/" target="_blank">
+  <img src=https://img.shields.io/badge/UI/UX-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=uiux&logoColor=000000&labelColor=7c9dc4 alt=UI/UX style="margin-bottom: 5px;" />
   </a>
 </p>
 
