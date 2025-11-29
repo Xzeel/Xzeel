@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I’m Raihan A.K.A XzeelArcadia</h1>
 
-[![header](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)](https://xzeelarcadia.carrd.co/)
+[![header](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)](https://xzeelarcadia.carrd.co)
 
 <h3 align="center">Just 15 Y.O Programmer, likes creating Website & Minecraft Servers Development</h3>
 <hr>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzeel&theme=nord&layout=compact&langs_count=10" alt="xzeel" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzeel&theme=nord&layout=compact&langs_count=10" alt="XzeelArcadia's Stats" /></p>
 
 - 🌱 I’m currently learning **Front-End, Discord Bot & Minecraft Servers**
 
-- 👨‍💻 All of my projects are available at [xzeelarcadia.carrd.co](https://xzeelarcadia.carrd.co/)
+- 👨‍💻 All of my projects are available at [xzeelarcadia.carrd.co](https://xzeelarcadia.carrd.co)
 
-- 📝 I regularly write articles on [xzeelarcadia.carrd.co](https://xzeelarcadia.carrd.co/)
+- 📝 I regularly write articles on [xzeelarcadia.carrd.co](https://xzeelarcadia.carrd.co)
 
 - 🌟 I’m from Indonesia.
 
-- 📄 Know about my experiences [xzeelarcadia.carrd.co](https://xzeelarcadia.carrd.co/)
+- 📄 Know about my experiences [xzeelarcadia.carrd.co](https://xzeelarcadia.carrd.co)
 
 - ⚡ Fun fact **i don't think i have fun fact**
 
@@ -76,7 +76,7 @@
   </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xzeel&show_icons=true&theme=nord" alt="xzeel" /> <br> </p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xzeel&show_icons=true&theme=nord" alt="XzeelArcadia's Stats" /> <br> </p>
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Xzeel&theme=nord" /> <br> </p>
 
