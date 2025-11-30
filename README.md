@@ -76,9 +76,11 @@
   </a>
 </p>
 
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Xzeel&theme=nord&no-frame=false&no-bg=false&margin-w=4" alt="XzeelArcadia's Trophies" /> <br> </p>
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xzeel&show_icons=true&theme=nord" alt="XzeelArcadia's Stats" /> <br> </p>
 
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Xzeel&theme=nord" /> <br> </p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Xzeel&theme=nord" alt="XzeelArcadia's Stats" /> <br> </p>
 
 <h2 style="font-weight: bold;" align="center">Discord Server</h2>
 <p align="center">
