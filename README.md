@@ -58,7 +58,7 @@
   <a href="https://vercel.com/" target="_blank">
   <img src=https://img.shields.io/badge/Vercel-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=vercel&logoColor=000000&labelColor=7c9dc4 alt=C# style="margin-bottom: 5px;" />
   </a>
-  <a href="https://vercel.com/" target="_blank">
+  <a href="https://nextjs.org/" target="_blank">
   <img src=https://img.shields.io/badge/Next-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=next.js&logoColor=000000&labelColor=7c9dc4 alt=C# style="margin-bottom: 5px;" />
   </a>
   <a href="https://vite.dev/guide/" target="_blank">
