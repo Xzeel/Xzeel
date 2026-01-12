@@ -28,6 +28,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
   <img src=https://img.shields.io/badge/CSS-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=css&logoColor=000000&labelColor=7c9dc4 alt=CSS style="margin-bottom: 5px;" />
   </a>
+  <a href="https://www.java.com/en/" target="_blank">
+  <img src=https://img.shields.io/badge/Java-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=openjdk&logoColor=000000&labelColor=7c9dc4 alt=JavaScript style="margin-bottom: 5px;" />
+  </a>
   <a href="https://www.w3schools.com/js/" target="_blank">
   <img src=https://img.shields.io/badge/Javascript-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=javascript&logoColor=000000&labelColor=7c9dc4 alt=JavaScript style="margin-bottom: 5px;" />
   </a>
@@ -43,20 +46,23 @@
   <a href="https://discord.js.org/" target="_blank">
   <img src=https://img.shields.io/badge/Discord.js-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=discord.js&logoColor=000000&labelColor=7c9dc4 alt=Discord.js style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.canva.com/" target="_blank">
-  <img src=https://img.shields.io/badge/Canva-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=canva&logoColor=000000&labelColor=7c9dc4 alt=Canva style="margin-bottom: 5px;" />
-  </a>
   <a href="https://www.cloudflare.com/" target="_blank">
   <img src=https://img.shields.io/badge/Cloudflare-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=cloudflare&logoColor=000000&labelColor=7c9dc4 alt=Cloudflare style="margin-bottom: 5px;" />
   </a>
-  <a href="https://web.blockbench.net/" target="_blank">
-  <img src=https://img.shields.io/badge/Blockbench-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=blockbench&logoColor=000000&labelColor=7c9dc4 alt=Blockbench style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.figma.com/resource-library/difference-between-ui-and-ux/" target="_blank">
-  <img src=https://img.shields.io/badge/UI/UX-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=uiux&logoColor=000000&labelColor=7c9dc4 alt=UI/UX style="margin-bottom: 5px;" />
-  </a>
   <a href="https://www.w3schools.com/cs/index.php" target="_blank">
   <img src=https://img.shields.io/badge/CSharp-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=csharp&logoColor=000000&labelColor=7c9dc4 alt=C# style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+  <img src=https://img.shields.io/badge/Typescript-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=typescript&logoColor=000000&labelColor=7c9dc4 alt=C# style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://vercel.com/" target="_blank">
+  <img src=https://img.shields.io/badge/Vercel-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=vercel&logoColor=000000&labelColor=7c9dc4 alt=C# style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://vercel.com/" target="_blank">
+  <img src=https://img.shields.io/badge/Next-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=next.js&logoColor=000000&labelColor=7c9dc4 alt=C# style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://vite.dev/guide/" target="_blank">
+  <img src=https://img.shields.io/badge/Vite-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=vite&logoColor=000000&labelColor=7c9dc4 alt=C# style="margin-bottom: 5px;" />
   </a>
 </p>
 
