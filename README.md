@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I’m Raihan A.K.A XzeelArcadia</h1>
 
-[![header](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)](https://xzeelarcadia.carrd.co)
+<p align="center">
+  <img src="assets/footer.webp" alt="Banner" draggable="false" />
+</p>
 
 <h3 align="center">Just 16 Y.O programmer who likes to try new things in the field of technology.</h3>
 <hr>
