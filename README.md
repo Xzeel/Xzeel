@@ -6,7 +6,7 @@
 
 <h3 align="center">Just 16 Y.O programmer who likes to try new things in the field of technology.</h3>
 <hr>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzeel&theme=nord&layout=compact&langs_count=10" alt="XzeelArcadia's Stats" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzeel&theme=nord&layout=compact&langs_count=10" alt="XzeelArcadia's Stats" draggable="false" /></p>
 
 - 🌱 I’m currently learning **Front-End, Discord Bot & Minecraft Servers**
 
@@ -48,23 +48,26 @@
   <a href="https://discord.js.org/" target="_blank">
   <img src=https://img.shields.io/badge/Discord.js-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=discord.js&logoColor=000000&labelColor=7c9dc4 alt=Discord.js style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.cloudflare.com/" target="_blank">
-  <img src=https://img.shields.io/badge/Cloudflare-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=cloudflare&logoColor=000000&labelColor=7c9dc4 alt=Cloudflare style="margin-bottom: 5px;" />
-  </a>
   <a href="https://www.w3schools.com/cs/index.php" target="_blank">
   <img src=https://img.shields.io/badge/CSharp-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=csharp&logoColor=000000&labelColor=7c9dc4 alt=C# style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
   <img src=https://img.shields.io/badge/Typescript-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=typescript&logoColor=000000&labelColor=7c9dc4 alt=C# style="margin-bottom: 5px;" />
   </a>
-  <a href="https://vercel.com/" target="_blank">
-  <img src=https://img.shields.io/badge/Vercel-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=vercel&logoColor=000000&labelColor=7c9dc4 alt=C# style="margin-bottom: 5px;" />
-  </a>
   <a href="https://nextjs.org/" target="_blank">
   <img src=https://img.shields.io/badge/Next-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=next.js&logoColor=000000&labelColor=7c9dc4 alt=C# style="margin-bottom: 5px;" />
   </a>
   <a href="https://vite.dev/guide/" target="_blank">
   <img src=https://img.shields.io/badge/Vite-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=vite&logoColor=000000&labelColor=7c9dc4 alt=C# style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.cloudflare.com/" target="_blank">
+  <img src=https://img.shields.io/badge/Cloudflare-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=cloudflare&logoColor=000000&labelColor=7c9dc4 alt=Cloudflare style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://vercel.com/" target="_blank">
+  <img src=https://img.shields.io/badge/Vercel-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=vercel&logoColor=000000&labelColor=7c9dc4 alt=C# style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+  <img src=https://img.shields.io/badge/IDEA-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=intellijidea&logoColor=000000&labelColor=7c9dc4 alt=C# style="margin-bottom: 5px;" />
   </a>
 </p>
 
