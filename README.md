@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [xzeelarcadia.vercel.app](https://xzeelarcadia.vercel.app/)
 
-- 📝 I regularly write articles on [xzeelarcadia.vercel.app](https://xzeelarcadia.vercel.app/)
-
 - 🌟 I’m from Indonesia.
 
 - 📄 Know about my experiences [xzeelarcadia.vercel.app](https://xzeelarcadia.vercel.app/)
