@@ -49,6 +49,9 @@
   <a href="https://www.w3schools.com/cs/index.php" target="_blank">
   <img src=https://img.shields.io/badge/CSharp-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=csharp&logoColor=000000&labelColor=7c9dc4 alt=C# style="margin-bottom: 5px;" />
   </a>
+  <a href="https://www.python.org/" target="_blank">
+  <img src=https://img.shields.io/badge/Python-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=python&logoColor=000000&labelColor=7c9dc4 alt=Python style="margin-bottom: 5px;" />
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
   <img src=https://img.shields.io/badge/Typescript-%2FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=typescript&logoColor=000000&labelColor=7c9dc4 alt=C# style="margin-bottom: 5px;" />
   </a>
